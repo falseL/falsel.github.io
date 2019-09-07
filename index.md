@@ -9,7 +9,7 @@
 
 ---
 [Blind Control System](/ETDProj)
-<img src="/ETDProj/img/product.png"/>
+<img src="/ETDProj/img/product.jpg"/>
 
 <!---
 ---
