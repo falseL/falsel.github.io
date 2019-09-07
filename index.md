@@ -13,7 +13,7 @@
 
 ---
 [Blind Control System](/ETDProj)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/ETDProj/img/slide1.png"/>
 
 [Hotel Reservation Application](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
