@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Restaurant Home Page](/project_pages/project_1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Restaurant Home Page](/React-confusion)
+<img src="images/React-confusion.jpg"/>
 
 ---
 [Car Rental Application](/pdf/sample_presentation.pdf)
@@ -13,7 +13,7 @@
 
 ---
 [Blind Control System](/ETDProj)
-<img src="/ETDProj/img/slide1.png"/>
+<img src="/ETDProj/img/product.png"/>
 
 [Hotel Reservation Application](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
