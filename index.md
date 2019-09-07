@@ -23,7 +23,8 @@
 
 ### Extra
 
-Work in progress, coming soon
+Work in progress, coming soon.
+
 <!---
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -32,8 +33,6 @@ Work in progress, coming soon
 - [Project 5 Title](http://example.com/)
 -->
 ---
-
-
 
 
 ---
