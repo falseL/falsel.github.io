@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Restaurant Home Page](/React-confusion)
+[Restaurant Home Page](/project_pages/project_1)
 <img src="images/React-confusion.jpg"/>
 
 ---
@@ -16,7 +16,7 @@
 <img src="https://qph.fs.quoracdn.net/main-qimg-b84a07cc62031013b6bb0622b7dcf8ff"/>
 
 ---
-[Car Rental Application](/project_pages/project_1)
+[Car Rental Application](/project_pages/project_4)
 <img src="http://www.picpedia.org/highway-signs/images/cheap-car-rental.jpg"/>
 
 ### Extra
