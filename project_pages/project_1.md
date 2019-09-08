@@ -1,6 +1,10 @@
 ## Car Rental Application
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="http://www.picpedia.org/highway-signs/images/cheap-car-rental.jpg"/>
+
+**Project description:** A simple car rental application, When the application first opens, the rental customer will be presented with a login screen. The rental customer will provide his/her Oracle login information. The application will authenticate the credentials by logging into Oracle. After logging in, the application user is presented with a screen containing a list of all existing reservations. Use a GridView for the list of reservations. If there are no reservations, the page should display a message stating that. The GridView should show the vehicle’s licence plate, the model and the type, as well as the name of the customer who made a reservation.
+The user will be allowed to either cancel existing reservation or to make a new reservation. If any change is made, the GridView will be repopulated from the database to show the records currently stored in the database.
+Logout button must be provided to allow the user to log out when done.
 
 A C# ASP.NET rental reservation application
 * .aspx pages, .css files,

@@ -17,6 +17,7 @@
 
 ---
 [Car Rental Application](/project_pages/project_1)
+<img src="http://www.picpedia.org/highway-signs/images/cheap-car-rental.jpg"/>
 
 ### Extra
 
