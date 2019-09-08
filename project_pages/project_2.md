@@ -11,5 +11,4 @@
 * Emergency stop buttons on the PCB, thread, callback
 
 [View the Project on GitHub](https://github.com/falseL/ETDProj)
-
 falseL/ETDProj

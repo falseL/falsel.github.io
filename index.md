@@ -21,7 +21,7 @@
 
 ### Extra
 
-Work in progress, coming soon.
+Work in progress.
 
 <!---
 - [Project 1 Title](http://example.com/)

@@ -10,5 +10,4 @@
 * Redux controlled form, form validation, actions
 
 [View the Project on GitHub](https://github.com/falseL/React-confusion)
-
 falseL/React-confusion
