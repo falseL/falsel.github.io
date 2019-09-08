@@ -15,11 +15,12 @@
 ---
 [Car Rental Application](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 -->
 ---
 
 [Hotel Reservation Application](/Java556)
+<img src="https://qph.fs.quoracdn.net/main-qimg-b84a07cc62031013b6bb0622b7dcf8ff"/>
 
 ### Extra
 
