@@ -8,11 +8,11 @@
 <img src="images/React-confusion.jpg"/>
 
 ---
-[Blind Control System](/ETDProj)
+[Blind Control System](/project_pages/project_2)
 <img src="/ETDProj/img/product.jpg"/>
 
 ---
-[Hotel Reservation Application](/Java556)
+[Hotel Reservation Application](/project_pages/project_3)
 <img src="https://qph.fs.quoracdn.net/main-qimg-b84a07cc62031013b6bb0622b7dcf8ff"/>
 
 ---
